@@ -9,16 +9,16 @@ export default function Profile() {
                 <div className='profile-details'>
                     <div className='colz'>
                         <div className='colz-icon'>
-                            <a href='https://github.com/kennethogrey' target='_blank'>
+                            <a href='https://github.com/kennethogrey' target='_blank' rel="noopener noreferrer">
                                 <i className='fa fa-github-square'></i>
                             </a>
-                            <a href='https://www.linkedin.com/in/ogire-kenneth-68999a213' target='_blank'>
+                            <a href='https://www.linkedin.com/in/ogire-kenneth-68999a213' target='_blank' rel="noopener noreferrer">
                                 <i className='fa fa-linkedin-square'></i>
                             </a>
-                            <a href='https://www.instagram.com/kennethogrey/' target='_blank'>
+                            <a href='https://www.instagram.com/kennethogrey/' target='_blank' rel="noopener noreferrer">
                                 <i className='fa fa-instagram'></i>
                             </a>
-                            <a href='https://twitter.com/KennethOgrey' target='_blank'>
+                            <a href='https://twitter.com/KennethOgrey' target='_blank' rel="noopener noreferrer">
                                 <i className='fa fa-twitter'></i>
                             </a>
                         </div>

@@ -1,11 +1,11 @@
 import React from 'react';
-import Home from './PortifolioContainer/Home/Home';
+import PortifolioContainer from './PortifolioContainer/PortifolioContainer'; 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <PortifolioContainer />
     </div>
   );
 }
